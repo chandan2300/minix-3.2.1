@@ -1,4 +1,4 @@
-![alt tag](http://cdns2.freepik.com/free-photo/terminal-windows_318-9332.jpg)
+![alt tag](https://tse1.mm.bing.net/th?id=OIP.RL2JLzfz8fvAgF_-5qloJQHaEF&pid=Api&P=0&w=362&h=200)
 
 # minix-3.2.1
 This is a fork of version 3.2.1 of the respoitory found [here](https://github.com/minix3/minix).
